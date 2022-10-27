@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task 54_2Dmassive_max_to_min/1.0.0": {
+        "runtime": {
+          "task 54_2Dmassive_max_to_min.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task 54_2Dmassive_max_to_min/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 54_2Dmassive_max_to_min\bin\Debug\net6.0\task 54_2Dmassive_max_to_min.exe
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 54_2Dmassive_max_to_min\bin\Debug\net6.0\task 54_2Dmassive_max_to_min.deps.json
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 54_2Dmassive_max_to_min\bin\Debug\net6.0\task 54_2Dmassive_max_to_min.runtimeconfig.json
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 54_2Dmassive_max_to_min\bin\Debug\net6.0\task 54_2Dmassive_max_to_min.dll
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 54_2Dmassive_max_to_min\bin\Debug\net6.0\task 54_2Dmassive_max_to_min.pdb
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 54_2Dmassive_max_to_min\obj\Debug\net6.0\task 54_2Dmassive_max_to_min.csproj.AssemblyReference.cache
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 54_2Dmassive_max_to_min\obj\Debug\net6.0\task 54_2Dmassive_max_to_min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 54_2Dmassive_max_to_min\obj\Debug\net6.0\task 54_2Dmassive_max_to_min.AssemblyInfoInputs.cache
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 54_2Dmassive_max_to_min\obj\Debug\net6.0\task 54_2Dmassive_max_to_min.AssemblyInfo.cs
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 54_2Dmassive_max_to_min\obj\Debug\net6.0\task 54_2Dmassive_max_to_min.csproj.CoreCompileInputs.cache
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 54_2Dmassive_max_to_min\obj\Debug\net6.0\task 54_2Dmassive_max_to_min.dll
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 54_2Dmassive_max_to_min\obj\Debug\net6.0\refint\task 54_2Dmassive_max_to_min.dll
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 54_2Dmassive_max_to_min\obj\Debug\net6.0\task 54_2Dmassive_max_to_min.pdb
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 54_2Dmassive_max_to_min\obj\Debug\net6.0\task 54_2Dmassive_max_to_min.genruntimeconfig.cache
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 54_2Dmassive_max_to_min\obj\Debug\net6.0\ref\task 54_2Dmassive_max_to_min.dll
